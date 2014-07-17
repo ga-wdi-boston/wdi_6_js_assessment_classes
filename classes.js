@@ -49,3 +49,4 @@ var gunter_info = gunter.description();
 // than its current age.
 
 gunter.age = 100;
+// lol, I misinterpreted the question. gunter.age += 1
